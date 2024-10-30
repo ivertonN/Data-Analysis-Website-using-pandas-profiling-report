@@ -33,7 +33,6 @@ with st.sidebar.header('📤 Upload Your CSV Dataset'):
 
 # Pandas Profiling Report
 if uploaded_file is not None:
-    @st.cache_data
     def load_csv():
         csv = pd.read_csv(uploaded_file)
         return csv
