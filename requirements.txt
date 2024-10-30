@@ -4,3 +4,4 @@ numpy==1.24.3
 pandas-profiling==3.6.6
 pydantic==1.10.9
 setuptools
+streamlit-pandas-profiling
