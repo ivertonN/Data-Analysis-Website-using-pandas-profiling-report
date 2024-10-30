@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 pandas-profiling
-pydantic<2.0
+pydantic
