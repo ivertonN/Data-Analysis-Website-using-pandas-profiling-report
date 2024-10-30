@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-pandas-profiling==3.6.6
+pandas-profiling
 pydantic<2.0
